@@ -10,6 +10,7 @@ namespace LatihanVCS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Guys");
         }
     }
 }
