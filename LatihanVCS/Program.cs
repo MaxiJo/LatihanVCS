@@ -10,6 +10,12 @@ namespace LatihanVCS
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
+=======
+            Console.WriteLine("Hello Guys");
+            Console.WriteLine("Mute duulu wkwk");
+
+>>>>>>> Stashed changes
         }
     }
 }
